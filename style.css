@@ -242,7 +242,7 @@ h1 {
 }
 
 .desktop-icon-container {
-  background-color: var(--Desaturated-Dark-Blue);
+  background-color: var(--Light-Grayish-Blue);
   border-radius: 50%;
   display: flex;
   justify-content: center;
